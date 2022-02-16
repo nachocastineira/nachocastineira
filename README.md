@@ -47,8 +47,9 @@
 
 
 <a href="https://github.com/nachocastineira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nachocastineira&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=es&count_private=true" alt="Ignacio github stats" /></a> 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=nachocastineira"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nachocastineira" /></a>
 <a href="https://github.com/nachocastineira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachocastineira&layout=compact&theme=buefy&hide_border=true&locale=es&langs_count=10" /></a> 
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=nachocastineira"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nachocastineira" /></a>
+
 
 
 
